@@ -1,0 +1,197 @@
+{
+  "title": "Mind Wandering and Aging",
+  "description": "Mind wandering is typically characterized as a failure of attentional control, yet despite age-related executive function deficits, older adults typically report less mind wandering than younger adults during cognitive tasks and in daily life. Self-reported mind wandering episodes usually result in similar behavioral detriments in younger and older adults (e.g., greater RT variability, more task errors). However, the relatively few studies investigating the neural correlates of mind wandering and aging have revealed mixed findings, possibly because they typically rely on infrequent thought probes and, therefore, few trials for neural analyses. In the current study, we propose a method to recover more task data by categorizing trials from a commonly used sustained attention to response task according to RT variability. Behavioral data (n = 49 younger; n = 40 older) revealed that compared with younger adults, older adults reported fewer mind wandering episodes, but showed similar behavioral impacts thereof. Furthermore, in both age groups, subjective reports of mind wandering predicted the more objective sorting of trials into “on-” and “off-task” according to RT variability. Using these objectively sorted trials, we investigated two commonly reported EEG measures of mind wandering (diminished P1 and P3 amplitude) in 26 younger and 24 older adults. Although the P1 did not differ between on- and off-task trials for either group, the P3 was diminished for off-task trials in both age groups (albeit significantly less in older adults) suggesting preserved perceptual but reduced higher-order processing during off-task periods in both groups.",
+  "creators": [
+    {
+      "name": "Brock University",
+      "abbreviation": "Brock",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ]
+    },
+    {
+      "fullName": "Karen Campbell",
+      "firstName": "Karen",
+      "lastName": "Campbell",
+      "email": "karen.campbell@brocku.ca",
+      "affiliations": [
+        {
+          "name": "Brock University"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0003-0015-6307"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "electroencephalography"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC BY"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "JSON",
+        "EDF"
+      ],
+      "size": 30,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/5315658",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Model-based Mind Wandering in Older Adults: Age Differences in the Behavioral and Electrophysiological Correlates of Subjective and Objective Measures of Mind Wandering",
+      "publicationVenue": "",
+      "authors": [],
+      "dates": [],
+      "identifier": {
+        "identifier": "https://doi.org/10.1162/jocn_a_02195",
+        "identifierSource": ""
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "aging"
+    },
+    {
+      "value": "eeg"
+    },
+    {
+      "value": "perception"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Brock University"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "St. Catharines"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "eegnet-logo_0.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Sarah Henderson, sh14jm@brocku.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that local law or a relevant institutional authorization otherwise enables the deposit of these data in an open-access portal."
+        }
+      ]
+    },
+    {
+      "category": "REB_number",
+      "values": [
+        {
+          "value": "18-268 - CAMPBELL"
+        }
+      ]
+    }
+  ]
+}
