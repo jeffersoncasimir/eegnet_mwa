@@ -1,4 +1,4 @@
-﻿# Mind Wandering and Aging - MWA
+# Mind Wandering and Aging - MWA
 
 ## Model-based Mind Wandering in Older Adults: Age Differences in the Behavioral and Electrophysiological Correlates of Subjective and Objective Measures of Mind Wandering
 
