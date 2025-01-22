@@ -77,10 +77,51 @@
       "title": "Model-based Mind Wandering in Older Adults: Age Differences in the Behavioral and Electrophysiological Correlates of Subjective and Objective Measures of Mind Wandering",
       "publicationVenue": "",
       "authors":  [
-        "Sarah E. Henderson",
-        "A. Dawn Ryan",
-        "Luke W. Atack",
-        "Karen L. Campbell"
+        {
+          "fullName": "Sarah E. Henderson",
+          "firstName": "Sarah",
+          "middleInitial": "E",
+          "lastName": "Henderson",
+          "email": "sh14jm@brocku.ca",
+          "affiliations": [
+            {
+              "name": "Brock University"
+            }
+          ]
+        },
+        {
+          "fullName": "A. Dawn Ryan",
+          "firstName": "A.",
+          "middleInitial": "Dawn",
+          "lastName": "Ryan",
+          "affiliations": [
+            {
+              "name": "Brock University"
+            }
+          ]
+        },
+        {
+          "fullName": "Luke W. Atack",
+          "firstName": "Luke",
+          "middleInitial": "W",
+          "lastName": "Atack",
+          "affiliations": [
+            {
+              "name": "Brock University"
+            }
+          ]
+        },
+        {
+          "fullName": "Karen Campbell",
+          "firstName": "Karen",
+          "lastName": "Campbell",
+          "email": "karen.campbell@brocku.ca",
+          "affiliations": [
+            {
+              "name": "Brock University"
+            }
+          ]
+        }
       ],
       "dates": [],
       "identifier": {
