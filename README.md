@@ -7,3 +7,5 @@ Mind wandering is typically characterized as a failure of attentional control, y
 ## Participant Demographics Disclaimer
 
 In accordance with Brock University principles, all age related variables are coded such that they match the mean ages of the cohorts as reported in the publication.
+
+Data dissemination and standardization supported by [EEGNet.Loris.ca](https://eegnet.loris.ca)

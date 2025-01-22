@@ -63,7 +63,7 @@
         "value": "GB"
       },
       "access": {
-        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/5315658",
+        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/5526380",
         "authorizations": [
           {
             "value": "registered"
@@ -76,7 +76,12 @@
     {
       "title": "Model-based Mind Wandering in Older Adults: Age Differences in the Behavioral and Electrophysiological Correlates of Subjective and Objective Measures of Mind Wandering",
       "publicationVenue": "",
-      "authors": [],
+      "authors":  [
+        "Sarah E. Henderson",
+        "A. Dawn Ryan",
+        "Luke W. Atack",
+        "Karen L. Campbell"
+      ],
       "dates": [],
       "identifier": {
         "identifier": "https://doi.org/10.1162/jocn_a_02195",
