@@ -208,6 +208,22 @@
       ]
     },
     {
+      "category": "origin_consortium",
+      "values": [
+        {
+          "value": "EEGNet"
+        }
+      ]
+    },
+    {
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "https://eegnet.loris.ca/"
+        }
+      ]
+    },
+    {
       "category": "logo",
       "values": [
         {
